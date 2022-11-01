@@ -1,0 +1,172 @@
+body{
+  margin: 0%;
+  padding: 0%;
+
+}
+
+profile-area{
+
+  
+}
+
+
+
+.profile_img{
+  width: 90px;
+  height: 90px;
+  border-radius: 40px;
+  margin-left: 47rem;
+  margin-top: 17rem;
+  align-items: center;
+}
+
+.name{
+  text-align: center;
+  margin-left:2rem;
+}
+
+
+
+.links-area{
+  flex-direction: column;
+  align-items: center;
+  margin-left: 30rem;
+  grid-template-columns: repeat(auto-fill, minmax(min(10rem, 100%), 1fr));
+}
+
+
+
+.twitter{
+  width: 40rem;
+  height: 5rem;
+  border: transparent;
+  margin: 20px 0;
+  padding: 15px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 1rem;
+}
+.twitter:hover{
+  color: gray;
+
+
+}
+
+.btn_zuri{
+  width: 40rem;
+  height: 5rem;
+  border: transparent;
+  margin: 20px 0;
+  padding: 15px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 1rem;
+}
+
+
+.books{
+  width: 40rem;
+  height: 5rem;
+  border: transparent;
+  font-size: 20px;
+  margin: 20px 0;
+  padding: 15px;
+  cursor: pointer;
+  border-radius: 1rem;
+}
+
+.book_python{
+  width: 40rem;
+  height: 5rem;
+  border: transparent;
+  margin: 20px 0;
+  font-size: 20px;
+  padding: 15px;
+  cursor: pointer;
+  border-radius: 1rem;
+}
+
+
+.pitch{
+  width: 40rem;
+  height: 5rem;
+  border: transparent;
+  margin: 20px 0;
+  padding: 15px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 1rem;
+}
+
+.book_design{
+  width: 40rem;
+  height: 5rem;
+  border: transparent;
+  margin: 20px 0;
+  padding: 15px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 1rem;
+}
+
+
+.icon-area{
+  display: flex;
+  margin-left: 48rem;
+}
+
+.slack-img{
+  width: 50px;
+  height: 25px;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+.github{
+  width: 30px;
+  height: 25px;
+  border-radius:px;
+  cursor: pointer;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-around;
+  border-top: 1px solid rgb(144, 135, 135);
+  margin-top: 3rem;
+
+  
+}
+
+.image1{
+  width: 10rem;
+  margin-right: 60px;
+}
+
+.text{
+  margin-top: 4rem;
+}
+
+
+
+.image{
+  width: 15rem;
+  height: 30px;
+  text-align: left;
+  margin-top: 4rem;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
